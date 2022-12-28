@@ -1,0 +1,8 @@
+.home-col-text{
+    border: 1px solid black;
+}
+
+.home-col-text span{
+    color: #000;
+    font-weight: bold;
+}
